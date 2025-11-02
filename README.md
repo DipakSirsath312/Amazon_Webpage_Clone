@@ -55,3 +55,8 @@ Add JavaScript for interactive features
 Make the site fully responsive for all devices
 
 Add animations or hover effects
+
+# 👨‍💻 Author
+
+Dipak Shirsath
+📧 dipaksirsath312@gmail.com
