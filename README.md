@@ -35,3 +35,23 @@ Code organization and commenting
 HTML5
 
 CSS3
+
+# 📂 Folder Structure
+
+amazon-webpage-clone/
+│
+├── index.html
+├── style.css
+├── images/
+│   ├── logo.png
+│   ├── product1.jpg
+│   └── ...
+└── README.md
+
+# 💡 Future Improvements
+
+Add JavaScript for interactive features
+
+Make the site fully responsive for all devices
+
+Add animations or hover effects
