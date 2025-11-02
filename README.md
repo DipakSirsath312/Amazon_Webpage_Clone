@@ -19,3 +19,19 @@ It replicates the layout, design, and styling of the original Amazon website to 
 🔍 Navigation bar, product sections, and footer replicated
 
 📦 Organized folder structure for easy understanding
+
+# 🧠 Skills Demonstrated
+
+HTML5 semantic elements
+
+CSS3 styling and layout (Flexbox/Grid)
+
+Responsive web design
+
+Code organization and commenting
+
+# 🛠️ Technologies Used
+
+HTML5
+
+CSS3
